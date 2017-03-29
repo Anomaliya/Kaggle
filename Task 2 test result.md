@@ -1,15 +1,15 @@
 ## Base parameters
 ### TfidfVectorizer:
-### max_df=0.75,min_df=3,ngram_range=(1, 3),max_features=None
+#### max_df=0.75,min_df=3,ngram_range=(1, 3),max_features=None
 ### model parameters:
-### n_estimators=50,max_leaf_nodes=None,min_samples_leaf=3
+#### n_estimators=50,max_leaf_nodes=None,min_samples_leaf=3
 
-###   Dataset names:
-#### train - Movie and TV 5 train sample
-         test - Movie and TV 5 test sample
-         polarityRT - 
-         RT - reviews_rt_all
-         IMDB - imdb_small
+###  Dataset names:
+#####    train - Movie and TV 5 train sample
+#####    test - Movie and TV 5 test sample
+#####    polarityRT - 
+#####    RT - reviews_rt_all
+#####    IMDB - imdb_small
 
 ### Imblanced data
 
