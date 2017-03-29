@@ -7,7 +7,7 @@
 ###  Dataset names:
 #####    train - Movie and TV 5 train sample
 #####    test - Movie and TV 5 test sample
-#####    polarityRT - 
+#####    polarityRT - Test_RT_polarity
 #####    RT - reviews_rt_all
 #####    IMDB - imdb_small
 
