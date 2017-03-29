@@ -13,7 +13,6 @@
 
 ### Imblanced data
 
-                                                   |train data                    |test results|
 |Random state| size | TfidfVectorizer | accuracy train | f1 train|accuracy test | f1 test|acc_polarityRT|f1_polarityRT|acc RT|f1 RT|acc IMDB|f1 IMDB|
 |:------------|:----|:--------------:|:-------------:|:------:|:------------:|:------:|:------------:|:-----------:|:-----:|:---:|:-------:|:------:|
 | 10 |100000|using stop_words|0.9047|0.69|0.9033|0.69|0.6095|0.40|0.6948|0.38|0.8523|0.85|
@@ -23,8 +22,6 @@
 
 ### Balanced data
 
-                                                   |train data                    | test results|
-|:----------------------------------:|:----------------------:|:--------------------------------------------------------------------------------:|
 |Random state| size | TfidfVectorizer | accuracy train | f1 train|accuracy test | f1 test|acc_polarityRT|f1_polarityRT|acc RT|f1 RT|acc IMDB|f1 IMDB|
 |:------------|:----|:--------------:|:-------------:|:------:|:------------:|:------:|:------------:|:-----------:|:-----:|:---:|:-------:|:------:|
 |42|100000|using stop_words|0.8498|0.85|0.8407|0.60|0.6454|0.51|0.7112|0.48|0.821|0.84|
